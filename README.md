@@ -24,9 +24,9 @@ filled to start applying, build it up as you go, and lead with the capabilities 
 are most confident explaining.
 -->
 
-**Name:** [YOUR NAME]
-**LinkedIn:** [linkedin.com/in/yourprofile]
-**GitHub:** [github.com/yourusername]
+**Name:** Ron Thomas
+**LinkedIn:** [linkedin.com/in/ron-timmon-thomas-cissp-61a9621a6]
+**GitHub:** [github.com/Rontimmon89]
 **Status:** In progress
 
 ---
